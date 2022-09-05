@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rlx7LNxDDR2oFw18ue/4kvNggg5Tq8FUjSxL2zq/o8w=",
+  "Source": "PosBank",
+  "BasePath": "_content/PosBank",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
